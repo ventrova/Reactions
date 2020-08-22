@@ -1,0 +1,43 @@
+body {
+
+}
+/*Setting the stage */
+#border {
+
+    height: 35em;
+    width:0 auto;
+    /*
+    margin-bottom: 55%;
+    padding-bottom: 20%;
+    */
+    border-width: medium;
+    border-color: black;
+    border-style: dashed;
+
+}
+#playArea {
+    height: 96%;
+    width: 0 auto;
+    margin: 1%;
+    background-color: white;
+
+}
+header {
+}
+h1 {
+    text-align: center;
+    font-size: 3em;
+
+}
+#directions {
+    text-align: center;
+}
+#btn {
+    position: relative;
+    left: 50%;
+    margin-top: 1%;
+}
+#timer {
+    display: none;
+
+}
